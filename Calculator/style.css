@@ -1,0 +1,71 @@
+*{
+     margin: 0px;
+     padding: 0px;
+}
+h2{
+     color: #5fafa8;
+     display: block;
+     margin: 3px 155px;
+}
+body{
+     display: flex;
+     background-size: cover;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     
+     background: rgb(85,119,157);
+background: linear-gradient(90deg, rgba(85,119,157,1) 0%, rgba(28,207,178,1) 63%, rgba(0,212,255,1) 100%);
+}
+#calci{
+     margin-top: 90px;
+     background-color:#22252d ;
+     /* border: 2px solid red; */
+     border-radius: 23px;
+}
+
+.rounded{
+     border-radius: 23px;
+}
+.cal{
+     border-top-left-radius:23px ;
+     border-top-right-radius:23px ;
+     padding-top: 110px;
+     height:190px;
+}
+.digits{
+     background-color: #2a2d37;
+     border-radius: 23px;
+     /* border: 2px solid violet; */
+     align-items: center;
+     margin: 2px;
+     padding: 2px;
+}
+input[type="button"]{
+     background-color:#292c35;
+     color:#5fafa8;
+     border-radius: 12px;
+     margin: 1px;
+     padding: 1px 31px;
+ }
+ input[type="text"]{
+      color: #e8e8e8;
+      font-size: 1.6rem;
+      text-align: right;
+      border: none;
+      background: none;
+      width:90%;
+      padding-right: 3px;
+ }
+
+table,tr,td,th{
+     border: none;
+     text-align: center;
+}
+.col{
+     text-align: right;
+}
+.ac{
+     text-align: center;
+     width: 9.69rem;
+}
