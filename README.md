@@ -2,3 +2,8 @@
 This is the main repository for all the small projects 
 
 Project 1: <b>Calculator</b> -> https://rishabh-calculator.netlify.app/
+
+Project 2 <b>Notice Board</b> -> https://notice-board-class.netlify.app/
+
+
+                                
